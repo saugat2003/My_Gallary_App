@@ -137,5 +137,5 @@ You can also extend the app to add more features, like adding a search functiona
 **Saugat Bhattarai**  
 
 ---
-**License**
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
