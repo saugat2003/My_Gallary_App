@@ -20,13 +20,13 @@ This is a simple GUI-based application for displaying, managing, and interacting
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/gallery-app.git
+   git clone https://github.com/saugat2003/My_Gallary_App.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd gallery-app
+   cd My_Gallary_App
    ```
 
 3. Install the required dependencies:
@@ -40,7 +40,7 @@ This is a simple GUI-based application for displaying, managing, and interacting
 4. Run the application:
 
    ```bash
-   python gallery_app.py
+   python MyGallaryApp.py
    ```
 
 ---
@@ -48,20 +48,20 @@ This is a simple GUI-based application for displaying, managing, and interacting
 ## File Structure
 
 ```
-gallery-app/
+My_Gallary_App/
 │
 ├── images/                 # Directory containing friends' images
 ├── extra_friends/          # Directory for selecting additional friends to add
 ├── Icon/                   # Directory containing the app's icon
 │   └── icon.png
-├── gallery_app.py          # Main application code
+├── MyGallaryApp.py          # Main application code
 └── README.md               # Documentation file
 ```
 
 - **images/**: Stores the initial images of your friends. Each image represents a friend, and subdirectories under `images/` can hold pictures of friends' friends.
 - **extra_friends/**: Directory where additional images for new friends can be selected from.
 - **Icon/**: Holds the app icon that is displayed in the window.
-- **gallery_app.py**: The main Python script that runs the Gallery App.
+- **MyGallaryApp.py**: The main Python script that runs the Gallery App.
 
 ---
 
