@@ -1,6 +1,5 @@
-'''Student Name : Saugat Bhattarai
-   Student ID   : W##########
-   Programming Coursework Gallary App 
+'''Saugat Bhattarai
+   Gallary App 
 '''
 # Import necessary modules
 from tkinter import *
