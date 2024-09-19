@@ -2,7 +2,7 @@
 
 This is a simple GUI-based application for displaying, managing, and interacting with images of "friends" and their "friends". The application allows users to add new friends, view existing friends, delete friends, and toggle between light and dark themes. The app is built using **Python** and **Tkinter** for the GUI, along with some external libraries for handling images.
 
---
+---
 ## Features
 
 1. **Show Friends**: Display images of friends from the `images/` folder.
